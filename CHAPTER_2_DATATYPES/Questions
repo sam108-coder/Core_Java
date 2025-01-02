@@ -1,0 +1,31 @@
+1) What are statically and dynamically typed languages ?
+2) What is difference between Primitive Data Type & Non-Primitive Data Type
+3) What are Wrapper Classes
+   -> The classes which are used to convert
+   primitive into objects and objects into primitive
+   -> There are 8 wrapper classes :- Boolean,
+   Character, Byte, Short, Integer, Long, Float &
+   Double
+   -> Java introduced autoboxing and unboxing in
+   J2SE 5.0 version which coverts primitive into object
+   and object into primitive automatically
+4) What is Autoboxing & Unboxing ?
+   -> Autoboxing is the automatic conversion of
+   primitive data type into its corresponding wrapper
+   classes by java compiler.
+   -> Unboxing is the automatic conversion of an
+   object of wrapper type to its corresponding primitive
+   value by java compiler
+
+
+
+
+
+
+
+
+
+
+
+
+

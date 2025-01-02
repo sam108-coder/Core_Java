@@ -1,0 +1,10 @@
+1) What is String?
+2) Why String Object are Immutable?
+3) What is the difference between String, StringBuffer and StringBuilder?
+4) What is StringTokenizer?
+5) Why String class is final?
+6) Difference Between creating Objects by 'new keyword' and by 'String Literal'?
+7) What is the difference between equals() method and '==' ?
+8) Properties of 'String Constant Pool' or 'String Literal Pool'?
+9) Methods of String,StringBuffer and StringBuilder?
+10) Write some basic String programs.

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CHAPTER_10_JAVA8/CHAPTER_10_JAVA8.iml" filepath="$PROJECT_DIR$/CHAPTER_10_JAVA8/CHAPTER_10_JAVA8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CHAPTER_1_BASIC/CHAPTER_1_BASIC.iml" filepath="$PROJECT_DIR$/CHAPTER_1_BASIC/CHAPTER_1_BASIC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CHAPTER_2_DATATYPES/CHAPTER_2_DATATYPES.iml" filepath="$PROJECT_DIR$/CHAPTER_2_DATATYPES/CHAPTER_2_DATATYPES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CHAPTER_3_CONTROLSTATEMENT/CHAPTER_3_CONTROLSTATEMENT.iml" filepath="$PROJECT_DIR$/CHAPTER_3_CONTROLSTATEMENT/CHAPTER_3_CONTROLSTATEMENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CHAPTER_4_OOPS/CHAPTER_4_OOPS.iml" filepath="$PROJECT_DIR$/CHAPTER_4_OOPS/CHAPTER_4_OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CHAPTER_5_EXCEPTION/CHAPTER_5_EXCEPTION.iml" filepath="$PROJECT_DIR$/CHAPTER_5_EXCEPTION/CHAPTER_5_EXCEPTION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CHAPTER_6_STRING/CHAPTER_6_STRING.iml" filepath="$PROJECT_DIR$/CHAPTER_6_STRING/CHAPTER_6_STRING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CHAPTER_7_MULTITHREADING/CHAPTER_7_MULTITHREADING.iml" filepath="$PROJECT_DIR$/CHAPTER_7_MULTITHREADING/CHAPTER_7_MULTITHREADING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CHAPTER_8_ARRAY/CHAPTER_8_ARRAY.iml" filepath="$PROJECT_DIR$/CHAPTER_8_ARRAY/CHAPTER_8_ARRAY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CHAPTER_9_COLLECTION/CHAPTER_9_COLLECTION.iml" filepath="$PROJECT_DIR$/CHAPTER_9_COLLECTION/CHAPTER_9_COLLECTION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CORE_JAVA_PRACTICE.iml" filepath="$PROJECT_DIR$/.idea/CORE_JAVA_PRACTICE.iml" />
+    </modules>
+  </component>
+</project>

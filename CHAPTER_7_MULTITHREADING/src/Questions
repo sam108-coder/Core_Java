@@ -1,0 +1,38 @@
+1) What is Multithreading?
+2) What is the difference between Process and Thread?
+3) How to create threads?
+4) What is Thread?
+5) What is Runnable?
+6) Which is better way to create thread, Thread class or Runnable interface?
+7) What is the use of start() method?
+8) What is Thread scheduler?
+9) How to create Thread using 'Thread class' and by using 'Runnable interface'?
+10) Explain Life cycle of Thread?
+11) Different cases of executing the thread?
+12) Thread class constructor?
+13) Thread class methods?
+14) what is Daemon Thread?
+15) What is difference between isInterrupted() and interrupted() method?
+16) What is synchronization,advantage and disadvantage of synchronization,and it's types?
+17) How to achieve synchronization?
+18) synchronization methods?
+19) Explain internal working of synchronization?
+20) Explain synchronization block?
+21) Explain static synchronization?
+22) Explain wait(),notify(),notifyAll() methods?
+23) Difference between sleep() and wait() method?
+24) What is Anonymous thread?
+25) Explain Deadlock?
+26) Problem with 'synchronized' keyword?
+27) What is lock interface?
+28) What is Reentrant lock class?
+29) What is Thread group?
+30) Constructor of Thread group and it's methods?
+31) What is thread pool and it's advantage?
+32) What is Executors class and it's methods?
+33) What is ExecutorService interface and it's methods?
+34) What is Callable and Future interface and it's methods?
+35) What is difference between Runnable and Callable interface?
+36) What is thread local?
+
+
