@@ -12,6 +12,21 @@
 12) What is difference between Java & Python ?
 13) Java Features
 14) Naming Convention
+15) What is the difference between JDK, JRE and JVM ?
+Ans-> JDK (Java Development Kit):
+      It's a full-featured software development kit (SDK) used for Java development.
+      The JDK includes the JRE, along with tools like the compiler (javac), debuggers,
+      and other utilities needed for Java application development.
+
+      JRE (Java Runtime Environment):
+      The JRE is a subset of the JDK.
+      It provides libraries, Java Virtual Machine (JVM), and other components to run applications written in Java.
+      Essentially, it's the part of the JDK that allows you to run Java applications.
+
+      JVM (Java Virtual Machine):
+      The JVM is the core of the Java platform and is included in both JDK and JRE.
+      It executes the Java bytecode, providing an environment for Java code to run.
+      The JVM is platform-independent, meaning it allows Java applications to run on any device or operating system.
 
 
 
