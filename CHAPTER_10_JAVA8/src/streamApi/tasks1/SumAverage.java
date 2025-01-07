@@ -24,7 +24,7 @@ public class SumAverage {
         int total = Arrays.stream(numArr).sum();
         System.out.println(total);
 
-        System.out.println("*****Average*****");
+        System.out.println("Average for list of integers");
         OptionalDouble optAvg = num.stream()
                 .mapToDouble(Integer::doubleValue)
                 .average();

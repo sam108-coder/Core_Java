@@ -20,6 +20,4 @@ class C {
     void m2(){
         Singleton.getInstance().m1();
     }
-
-
 }

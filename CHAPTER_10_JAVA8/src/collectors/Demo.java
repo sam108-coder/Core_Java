@@ -7,11 +7,11 @@ import java.util.List;
 
 public class Demo {
     public static void main(String[] args) {
-        Person p1=new Person("John", "USA");
-        Person p2=new Person("Steve","JAPAN");
-        Person p3=new Person("Ashok","INDIA");
-        Person p4=new Person("Ching","CHINA");
-        Person p5=new Person("Kumar","INDIA");
+        Person p1 = new Person("John", "USA");
+        Person p2 = new Person("Steve", "JAPAN");
+        Person p3 = new Person("Ashok", "INDIA");
+        Person p4 = new Person("Ching", "CHINA");
+        Person p5 = new Person("Kumar", "INDIA");
 
         List<Person> persons = Arrays.asList(p1, p2, p3, p4, p5);
         List<Person> indians = persons.stream().filter(p -> p.country.equals("INDIA"))
@@ -20,7 +20,8 @@ public class Demo {
 
     }
 }
-class Person{
+
+class Person {
     String name;
     String country;
 
