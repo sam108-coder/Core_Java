@@ -10,19 +10,19 @@ import java.util.List;
 public class Demo1 {
 
 	public static void main(String[] args) {
-		List<String> courses = Arrays.asList("corejava", "advjava", "springboot", "restapi", "microservices");
+		List<String> courses = Arrays.asList("corejava", "advjava", "springboot", "restapi", "microservices","MySql");
 
-		courses.stream().limit(3).forEach(c -> System.out.println(c));
+		courses.stream().limit(3).forEach(System.out::println);
 
 		System.out.println("========================================");
 
-		courses.stream().skip(3).forEach(c -> System.out.println(c));
+		courses.stream().skip(3).forEach(System.out::println);
 
 		System.out.println("==========================================");
 		
 		List<String> names = Arrays.asList("raja","rani","raja","rani","guru");
 
-		names.stream().distinct().forEach(name->System.out.println(name));
+		names.stream().distinct().forEach(System.out::println);
 		
 		
 	}

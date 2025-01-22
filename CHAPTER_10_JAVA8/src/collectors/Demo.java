@@ -14,8 +14,7 @@ public class Demo {
         Person p5 = new Person("Kumar", "INDIA");
 
         List<Person> persons = Arrays.asList(p1, p2, p3, p4, p5);
-        List<Person> indians = persons.stream().filter(p -> p.country.equals("INDIA"))
-                .toList();
+        List<Person> indians = persons.stream().filter(p -> p.country.equals("INDIA")).toList();
         indians.forEach(System.out::println);
 
     }
